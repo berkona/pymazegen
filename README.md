@@ -1,4 +1,4 @@
-pymazegen
+PyMazeGen
 =========
 
-Various generators for 2D mazes.
+Implements various maze generation algorithms in python.
